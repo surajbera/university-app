@@ -6,6 +6,7 @@ function university_post_types()
     'rewrite' => array(
       'slug' => 'events'
     ),
+    'supports' => array('title', 'excerpt', 'editor'),
     'has_archive' => true,
     'show_in_rest' => true,
     'public' => true,
