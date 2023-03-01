@@ -46,3 +46,5 @@ I hope this helps clarify when to use each function. Let me know if you have any
 - get_theme_file_uri('/images/ocean.jpg')
 - wp_trim_words
 - wp_trim_words(get_the_content(), 18)
+- In PHP, the arrow operator -> is used to access properties and methods of an object.
+- has_excerpt()
